@@ -1,0 +1,6 @@
+streamlit
+akshare
+pandas_ta
+numpy
+pandas
+loguru
